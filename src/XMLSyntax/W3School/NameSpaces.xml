@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rootelement xmlns:h="http://www.w3.org/1999/xhtml" >
+<h:table>
+    <h:tr>
+        <h:td>Apple</h:td>
+        <h:td>Orange</h:td>
+    </h:tr>
+</h:table>
+
+<!--  <f:table xmlns:f="https://www.w3schools.com/furniture">
+    <f:name>African Coffee Table</f:name>
+    <f:width>80</f:width>
+    <f:length>120</f:length>
+</f:table> -->
+
+
+</rootelement>

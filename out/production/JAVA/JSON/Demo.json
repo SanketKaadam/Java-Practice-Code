@@ -1,0 +1,11 @@
+{
+  "Name" : "Sanket",
+  "Marks" : 95.23,
+  "isAdmin" : false,
+  "MyObj" : {
+    "Shop" : "Amazon",
+    "ShopID" : 101,
+    "ShopItems" : ["food", "clothes", { "oil" : "SunFlower Oil"}],
+    "//First_Comments" : "this code written by watching CodeWithHarray"
+  }
+}

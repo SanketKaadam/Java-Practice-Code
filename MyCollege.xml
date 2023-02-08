@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="18.0.1.1" class="java.beans.XMLDecoder">
+ <object class="Telusko.FileHandaling.SerializationAndDeSerializationUsingXMLEncoder.College">
+  <void property="students">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="Telusko.FileHandaling.SerializationAndDeSerializationUsingXMLEncoder.Students">
+      <void property="rollNo">
+       <int>101</int>
+      </void>
+      <void property="sName">
+       <string>Sanket</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="Telusko.FileHandaling.SerializationAndDeSerializationUsingXMLEncoder.Students">
+      <void property="rollNo">
+       <int>102</int>
+      </void>
+      <void property="sName">
+       <string>Navin</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

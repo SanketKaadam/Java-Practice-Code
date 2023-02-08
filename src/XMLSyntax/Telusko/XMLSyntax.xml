@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aliens SYSTEM "C:\Users\Lenovo\IdeaProjects\untitled\src\XMLSyntax\Telusko\DTDStructureGrammer.dtd">
+
+<aliens>
+    <alien>
+        <name aid='A1' lang="java" >sanket</name>
+        <salary>3000</salary>
+    </alien>
+
+    <alien>
+        <name aid="A2"  lang="c" >sanket</name>
+        <salary>3000</salary>
+    </alien>
+    <!-- This file created by watching Telusko YouTube video -->
+</aliens>
